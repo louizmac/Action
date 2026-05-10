@@ -1,17 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apple.svg" width="80" height="80" />
-</p>
-
 <h1 align="center">Action</h1>
 
 <p align="center">
   <strong>The ultimate drag-and-drop productivity shelf for macOS.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/platform-macOS-000000.svg?style=for-the-badge&logo=apple" />
-  <img src="https://img.shields.io/badge/Swift-5.9-F05138.svg?style=for-the-badge&logo=swift" />
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" />
 </p>
 
 ---
@@ -62,11 +52,6 @@ Dragging files between windows, spaces, and full-screen apps on macOS can be fru
 4. **Navigate** to your destination (change Space, open a new app).
 5. **Drag out** the files from the shelf to their final location.
 6. Click the <kbd>X</kbd> to clear a specific item or empty the shelf.
-
-## 🏗 Requirements
-- macOS 13.0 or later
-- Apple Silicon or Intel processor
-
 ---
 
 <p align="center">
